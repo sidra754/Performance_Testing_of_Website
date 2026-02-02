@@ -1,0 +1,22 @@
+# Performance Test Plan
+
+## Objective
+To evaluate the performance and stability of the application under varying load conditions.
+
+## Scope
+- Load Testing
+- Stress Testing
+- Spike Testing
+
+## Test Environment
+- OS: Windows
+- Tool: Apache JMeter
+- Network: Stable Internet Connection
+
+## Entry Criteria
+- Application deployed
+- Test data prepared
+
+## Exit Criteria
+- All test scenarios executed
+- Performance metrics captured
