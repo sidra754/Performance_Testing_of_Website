@@ -59,5 +59,5 @@ The performance testing results help identify system limitations and provide ins
 ---
 
 ## 👤 Author
-**[Your Name]**  
+**[Sidra Sabar]**  
 Performance Testing | QA | Software Testing
