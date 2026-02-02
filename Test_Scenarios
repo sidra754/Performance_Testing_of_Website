@@ -1,0 +1,6 @@
+# Performance Test Scenarios
+
+1. Simulate 100 concurrent users accessing the homepage
+2. Measure response time for login functionality
+3. Apply sudden spike in traffic
+4. Evaluate system behavior under maximum load
