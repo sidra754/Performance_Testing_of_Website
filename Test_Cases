@@ -1,0 +1,11 @@
+# Performance Test Cases
+
+## Test Case 01
+- Scenario: Homepage Load Test
+- Users: 100
+- Expected Result: Response time < 3 seconds
+
+## Test Case 02
+- Scenario: Login Stress Test
+- Users: 200
+- Expected Result: No application crash
