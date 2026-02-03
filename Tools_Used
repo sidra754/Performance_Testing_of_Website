@@ -1,0 +1,13 @@
+# Tools Overview
+
+## Apache JMeter
+Used to simulate multiple users and analyze performance metrics such as response time and throughput.
+
+## Excel / Google Sheets
+Used for result comparison and reporting.
+
+## GitHub
+Used for version control and project documentation.
+
+## Lightshot and Blazemeter
+For recording of screen performance
